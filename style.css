@@ -63,7 +63,7 @@ body::-webkit-scrollbar {
     background-color:(#f1f1d430);
     background-image: radial-gradient(#2b2a2a44 1.2px, transparent 1px);
     background-size: 40px 40px;
-    /* background-color: rgba(0, 0, 0, 0.546); */
+    /* background-color: rgba(0, 0, 0, 0.546);  dark mode bgclr */
 }
 #heropage{
     width: 100%;
